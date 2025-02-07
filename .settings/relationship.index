@@ -1,0 +1,46 @@
+[ {
+  "baseItem" : {
+    "id" : "_dlXCEN09Ee-3jJ36s5P0MA",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "SALES_DATA_ANALYSIS:_PXGKYN0uEe-iZpjStCLmZA",
+    "version" : "Latest",
+    "type" : "job"
+  }, {
+    "id" : "SALES_DATA_ANALYSIS:_fQ2DQNwbEe-yCJh2DFmT4w",
+    "version" : "Latest",
+    "type" : "job"
+  }, {
+    "id" : "_JEpkENyuEe-CUOa1qrMfYg",
+    "version" : "Latest",
+    "type" : "property"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_fQ2DQNwbEe-yCJh2DFmT4w",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_JEpkENyuEe-CUOa1qrMfYg",
+    "version" : "Latest",
+    "type" : "property"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_k3k9YN07Ee-3jJ36s5P0MA",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "SALES_DATA_ANALYSIS:_PXGKYN0uEe-iZpjStCLmZA",
+    "version" : "Latest",
+    "type" : "job"
+  }, {
+    "id" : "_JEpkENyuEe-CUOa1qrMfYg",
+    "version" : "Latest",
+    "type" : "property"
+  } ]
+} ]

@@ -1,0 +1,101 @@
+id_client;nom;ville;secteur
+1;Teixeira S.A.;Pons;Restauration
+2;Jacquet Tanguy S.A.R.L.;Michaud;Tourisme
+3;Gauthier SA;Neveuboeuf;Transports
+4;Caron Rocher et Fils;Dupre;Energie
+5;Allain SARL;Bourgeois;Restauration
+6;Lacroix SARL;Leleu;Mode
+7;Pierre;LeleuVille;Securite
+8;Legendre;Vincent-sur-Ollivier;Services financiers
+9;Guillon;Sainte Gabriel-les-Bains;Securite
+10;Jacques Hubert SA;Gerard;Securite
+11;Le Goff Reynaud et Fils;Sainte Honore;Securite
+12;Lacroix Diallo et Fils;Sainte Edith;Agriculture
+13;Guerin SA;Cousin;Pharmaceutique
+14;Marin;Bazin-les-Bains;Mode
+15;Leroux Bazin S.A.R.L.;Leblanc;Securite
+16;Barre;Baron;Tourisme
+17;De Sousa;Menard;Industrie
+18;Baron;Neveu-la-Foret;Fonction publique
+19;Moulin et Fils;Gilles;Securite
+20;Millet Arnaud S.A.S.;Le Roux;Services financiers
+21;Perrin SA;Pons-sur-Colin;Sante
+22;Gomes;De OliveiraVille;Transports
+23;Andre Traore S.A.R.L.;Sainte Christine;Environnement
+24;Bailly Brun SARL;BuissonBourg;Tourisme
+25;Dijoux Jacquet et Fils;Bazin-les-Bains;Pharmaceutique
+26;Marchand et Fils;Perrier;Loisirs
+27;Pottier;Hoareau-sur-Lecomte;Securite
+28;Maillard et Fils;Robert-sur-Lamy;Securite
+29;Dupuis Seguin SA;Imbert-sur-Girard;Commerce
+30;Riviere S.A.R.L.;Bonnin;Securite
+31;Raynaud S.A.;Bernier;Transports
+32;Becker Lemaitre S.A.;Saint Susandan;Restauration
+33;Gosselin S.A.R.L.;Lacroix;Mode
+34;Devaux et Fils;Guillouboeuf;Transports
+35;Dias;Jacquot-sur-Lopez;Education
+36;Lucas Jacquot S.A.R.L.;Charrier-sur-Mer;Securite
+37;Chartier Marechal S.A.S.;Besson-les-Bains;Pharmaceutique
+38;Bousquet Benoit S.A.S.;Lemonnier;Mode
+39;Tanguy S.A.R.L.;Aubert-sur-Richard;Energie
+40;Marchand SARL;Saint Helene-la-Foret;Education
+41;Faivre Nguyen S.A.S.;Payet;Transports
+42;Jacob;ValetteVille;Loisirs
+43;Boyer;Saint Aimenec;Loisirs
+44;Huet Evrard et Fils;Didier;Agriculture
+45;Torres;Pineau-les-Bains;Pharmaceutique
+46;Grenier;Sainte Nathalie;Pharmaceutique
+47;Bousquet Verdier SARL;Legendre;Services financiers
+48;Lebrun SA;Hardy;Services financiers
+49;Rolland SARL;Vallee;Medias
+50;Jourdan;Dupuy-sur-Benard;Sante
+51;Michel S.A.R.L.;Sainte Brigitte-la-Foret;Sante
+52;Besnard;Lopez;Fonction publique
+53;Alexandre;Monnier;Technologie
+54;Jacques;Jacquet;Loisirs
+55;Valentin S.A.R.L.;Gaillard-sur-Guyot;Medias
+56;Fernandez Bertrand et Fils;Mullernec;BTP
+57;Leclercq SARL;Delannoy;Mode
+58;Ollivier;Sanchez;Fonction publique
+59;Arnaud;Valentin;Agriculture
+60;Blin Michaud SA;Gosselin;Industrie
+61;Maillot;Pierre;Energie
+62;Delorme;Saint Audrey;Fonction publique
+63;Guillaume SARL;Sainte Therese-les-Bains;Services financiers
+64;Fouquet S.A.R.L.;Sainte Bertranddan;Securite
+65;Guillot;Michel-les-Bains;Securite
+66;Traore;Robert-sur-Mer;Restauration
+67;Leclercq;Leclercq-sur-Leveque;Restauration
+68;Renault;Jacquot-sur-Mer;Commerce
+69;Joubert;Boyernec;Mode
+70;Pelletier Fernandes S.A.;Michaud;Commerce
+71;Masse;Saint Xavierdan;Sante
+72;Lefort Joubert S.A.R.L.;Seguin;Tourisme
+73;Mathieu;Pelletier;Environnement
+74;Chevallier;Morin;Industrie
+75;Petit Devaux S.A.;Lombard-les-Bains;Securite
+76;De Oliveira Collin SARL;Hamon;Mode
+77;Hamon;Sainte Sebastien;Environnement
+78;Guyon;Sainte Anais;Pharmaceutique
+79;Leleu Lecoq S.A.S.;Henry-la-Foret;Technologie
+80;Leroy SA;Saint Martine-sur-Mer;Sante
+81;Navarro S.A.R.L.;Chevallier-sur-Barbier;Environnement
+82;Leblanc;Allard-sur-Lejeune;Loisirs
+83;Brunet;Gregoire;Medias
+84;Moreau Gillet et Fils;Saint Christiane;Tourisme
+85;Dufour;Sainte Guy;Mode
+86;Fournier;Chevallier;Industrie
+87;Joseph;Sainte Jules;Commerce
+88;Garcia;Dupre-la-Foret;Loisirs
+89;Renaud S.A.;Gay;Loisirs
+90;Letellier Pinto SA;Saint Dorotheeboeuf;Sante
+91;Robert;Boulay;Pharmaceutique
+92;Guibert;Jolyboeuf;BTP
+93;Parent Lopez et Fils;Vincentboeuf;Technologie
+94;Hoareau;Michel;Pharmaceutique
+95;Bruneau;Sainte Alain-la-Foret;Sante
+96;Marchand;Saint Margueritedan;Restauration
+97;Coulon S.A.;Marin;Securite
+98;Delattre;Moreauboeuf;Technologie
+99;Martel;Voisin;Agriculture
+100;Menard;Rousseaudan;Education

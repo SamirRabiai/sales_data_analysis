@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.relational="http:///orgomg/cwm/resource/relational.ecore">
+  <TalendMetadata:DatabaseConnection xmi:id="_Mx9t4NyvEe-CUOa1qrMfYg" name="papier_et_besoins_conn" id="_JEpkENyuEe-CUOa1qrMfYg" label="papier_et_besoins_conn" dataPackage="_MzXcENyvEe-CUOa1qrMfYg" DatabaseType="MySQL" DriverClass="com.mysql.cj.jdbc.Driver" URL="jdbc:mysql://localhost:3306/papier_et_besoins_db?noDatetimeStringSync=true&amp;enabledTLSProtocols=TLSv1.2,TLSv1.1,TLSv1&amp;noDatetimeStringSync=true&amp;serverTimezone=Europe/Paris" dbVersionString="MYSQL_8" Port="3306" Username="root" Password="enc:system.encryption.key.v1:cuBzdDGDzd8QmtlmmWQIjCv6gXq6NGLx+giTGxRqPD8UNuVs6x4=" ServerName="localhost" DatasourceName="" FileFieldName="" SID="papier_et_besoins_db" SqlSynthax="" StringQuote="" NullChar="" DbmsId="mysql_id" ProductId="MYSQL" AdditionalParams="noDatetimeStringSync=true&amp;enabledTLSProtocols=TLSv1.2,TLSv1.1,TLSv1&amp;noDatetimeStringSync=true&amp;serverTimezone=Europe/Paris" StandardSQL="true" SQLMode="false" UiSchema="">
+    <taggedValue xmi:id="_MyAxMNyvEe-CUOa1qrMfYg" tag="Is Conn Need Reload" value="false"/>
+    <taggedValue xmi:id="_MyyNQNyvEe-CUOa1qrMfYg" tag="package filter" value=""/>
+    <taggedValue xmi:id="_My13oNyvEe-CUOa1qrMfYg" tag="Status" value=""/>
+    <taggedValue xmi:id="_My13odyvEe-CUOa1qrMfYg" tag="Version" value="0.1"/>
+    <taggedValue xmi:id="_My13otyvEe-CUOa1qrMfYg" tag="Purpose" value=""/>
+    <taggedValue xmi:id="_My13o9yvEe-CUOa1qrMfYg" tag="Description" value=""/>
+    <taggedValue xmi:id="_My13pNyvEe-CUOa1qrMfYg" tag="Author" value=""/>
+    <taggedValue xmi:id="_My13pdyvEe-CUOa1qrMfYg" tag="otherParameter"/>
+    <taggedValue xmi:id="_MzKAsNyvEe-CUOa1qrMfYg" tag="DB ProductName" value="MySQL"/>
+    <taggedValue xmi:id="_MzKAsdyvEe-CUOa1qrMfYg" tag="DB ProductVersion" value="8.0.40"/>
+    <taggedValue xmi:id="_MzKAstyvEe-CUOa1qrMfYg" tag="DB IdentifierQuoteString" value="`"/>
+    <parameters xmi:id="_MyAxMdyvEe-CUOa1qrMfYg" key="CONN_PARA_KEY_USERNAME" value="root"/>
+  </TalendMetadata:DatabaseConnection>
+  <orgomg.cwm.resource.relational:Catalog xmi:id="_MzXcENyvEe-CUOa1qrMfYg" name="papier_et_besoins_db" dataManager="_Mx9t4NyvEe-CUOa1qrMfYg"/>
+</xmi:XMI>
