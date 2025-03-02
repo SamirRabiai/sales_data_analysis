@@ -33,7 +33,7 @@ Ce projet met en place un pipeline ETL utilisant **Talend** pour collecter, nett
 
 📌 **Schéma du pipeline** (ajouté dans `/docs/`)
 
-![Image](https://github.com/user-attachments/assets/f52a7872-3e89-4ace-8e5a-dadabaa7b8a7)
+![Connexion et création des tables](https://github.com/user-attachments/assets/f52a7872-3e89-4ace-8e5a-dadabaa7b8a7)
 
 
 ## 🚀 Installation et exécution
