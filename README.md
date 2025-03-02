@@ -43,9 +43,11 @@ Ce projet met en place un pipeline ETL utilisant **Talend** pour collecter, nett
 
 📌 **Schéma du pipeline** (ajouté dans `/docs/`)
 ![ETL](https://github.com/SamirRabiai/sales_data_analysis/blob/7bb1b5683a42721c79eb234c94c54aeec45d8dec/docs/Etl.png)
+<br><br>  
 ![Connexion et création des tables](https://github.com/user-attachments/assets/f52a7872-3e89-4ace-8e5a-dadabaa7b8a7)
+<br><br>  
 ![Extraction et aggrégation des ventes](https://github.com/SamirRabiai/sales_data_analysis/blob/7bb1b5683a42721c79eb234c94c54aeec45d8dec/docs/sales.png)
-
+<br><br>  
 
 ## 🚀 Installation et exécution
 
@@ -76,9 +78,13 @@ Ce projet met en place un pipeline ETL utilisant **Talend** pour collecter, nett
 ## 📊 Exemples de visualisations Power BI
 
 ![BI](https://github.com/SamirRabiai/sales_data_analysis/blob/f715362115b0458c866b8ecde1564d4cafd38d42/docs/pandb1.png)
+<br><br>  
 ![BI](https://github.com/SamirRabiai/sales_data_analysis/blob/f715362115b0458c866b8ecde1564d4cafd38d42/docs/pandb2.png)
+<br><br>  
 ![BI](https://github.com/SamirRabiai/sales_data_analysis/blob/f715362115b0458c866b8ecde1564d4cafd38d42/docs/pandb3.png)
+<br><br>  
 ![BI](https://github.com/SamirRabiai/sales_data_analysis/blob/f715362115b0458c866b8ecde1564d4cafd38d42/docs/pandb4.png)
+<br><br>  
 
 ## 🤝 Contribuer
 
