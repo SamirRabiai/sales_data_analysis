@@ -8,11 +8,21 @@ Ce projet met en place un pipeline ETL utilisant **Talend** pour collecter, nett
 
 ```
 /etl-pipeline-talend  
-│── /talend_project/      # Contient le projet Talend complet  
-│── /data/                # Données d’exemple (CSV, JSON, etc.)  
-│── /docs/                # Documentation, images, schémas  
-│── P&B_dashboard.pbix    # Fichier Power BI  
-│── README.md             # Explication du projet  
+ ├── 📂 .settings/                     # Fichiers de configuration Talend  
+ ├── 📂 Source/                        # Fichiers de données sources   
+ ├── 📂 code/routines/system/          # Routines personnalisées utilisées dans Talend  
+ ├── 📂 docs/                          # Documentation et captures d'écran du projet  
+ ├── 📂 metadata/connections/          # Connexions aux bases de données  
+ ├── 📂 poms/                          # Configuration Maven pour Talend  
+ ├── 📂 process/                       # Flux ETL et jobs Talend  
+ ├── 📂 sqlPatterns/                   # Modèles SQL réutilisables  
+ ├── 📂 temp/lib/                      # Librairies temporaires utilisées par Talend  
+ ├── 📄 .project                       # Fichier de configuration du projet Talend  
+ ├── 📊 P&B_dashboard.pbix             # Tableau de bord Power BI  
+ ├── 📄 README.md                      # Documentation principale  
+ ├── 🗑 recycle_bin.index               # Fichiers supprimés dans Talend  
+ ├── 📄 talend.project                 # Fichier principal du projet Talend  
+
 ```
 
 ## 🛠 Technologies utilisées
