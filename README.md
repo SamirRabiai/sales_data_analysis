@@ -34,7 +34,7 @@ Ce projet met en place un pipeline ETL utilisant **Talend** pour collecter, nett
 📌 **Schéma du pipeline** (ajouté dans `/docs/`)
 
 ```
-![Connexion et création des tables](https://github.com/SamirRabiai/sales_data_analysis/blob/834ccc211932ed87e0ac1cf5033fde93f74469d1/docs/Connex.png)
+![Connexion et création des tables](https://github.com/SamirRabiai/sales_data_analysis/blob/main/docs/Connex.png?raw=true)
 
 
 ```
