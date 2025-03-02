@@ -83,6 +83,5 @@ Les contributions sont les bienvenues !
 
 ---
 
-🚀 **Contact & Réseaux** 📧 Email : [ton-email@example.com](mailto\:ton-email@example.com)\
-🔗 LinkedIn : [linkedin.com/in/tonprofil](https://linkedin.com/in/tonprofil)
+
 
