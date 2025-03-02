@@ -32,8 +32,9 @@ Ce projet met en place un pipeline ETL utilisant **Talend** pour collecter, nett
 4. **Analyse** : Connexion de Power BI à la base MySQL pour visualiser les KPIs.
 
 📌 **Schéma du pipeline** (ajouté dans `/docs/`)
-
+![ETL](https://github.com/SamirRabiai/sales_data_analysis/blob/7bb1b5683a42721c79eb234c94c54aeec45d8dec/docs/Etl.png)
 ![Connexion et création des tables](https://github.com/user-attachments/assets/f52a7872-3e89-4ace-8e5a-dadabaa7b8a7)
+![Extraction et aggrégation des ventes] (https://github.com/SamirRabiai/sales_data_analysis/blob/7bb1b5683a42721c79eb234c94c54aeec45d8dec/docs/sales.png)
 
 
 ## 🚀 Installation et exécution
