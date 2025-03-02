@@ -65,7 +65,10 @@ Ce projet met en place un pipeline ETL utilisant **Talend** pour collecter, nett
 
 ## 📊 Exemples de visualisations Power BI
 
-Ajoute ici des captures d’écran de ton dashboard Power BI pour montrer tes résultats ! 📸
+![BI](https://github.com/SamirRabiai/sales_data_analysis/blob/f715362115b0458c866b8ecde1564d4cafd38d42/docs/pandb1.png)
+![BI](https://github.com/SamirRabiai/sales_data_analysis/blob/f715362115b0458c866b8ecde1564d4cafd38d42/docs/pandb2.png)
+![BI](https://github.com/SamirRabiai/sales_data_analysis/blob/f715362115b0458c866b8ecde1564d4cafd38d42/docs/pandb3.png)
+![BI](https://github.com/SamirRabiai/sales_data_analysis/blob/f715362115b0458c866b8ecde1564d4cafd38d42/docs/pandb4.png)
 
 ## 🤝 Contribuer
 
